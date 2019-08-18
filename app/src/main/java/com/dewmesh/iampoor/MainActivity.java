@@ -1,6 +1,5 @@
-package com.londonappbrewery.iampoor;
+package com.dewmesh.iampoor;
 
-import android.app.Activity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
